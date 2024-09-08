@@ -1,4 +1,4 @@
-lass Ball {
+class Ball {
   float D;
 	float x; 
   float y;
